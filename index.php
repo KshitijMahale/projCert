@@ -1,3 +1,3 @@
 <?php
-ehco "Wlcome to AppleBite Co.'s PHP App!";
+ehco "Wlcome to AppleBite Co.\'s PHP App!";
 ?>
